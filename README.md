@@ -1,3 +1,67 @@
+# 👨‍💻 Shantha Kumar P M | Personal Portfolio
+
+
+Welcome to the repository for my personal portfolio! I am a Software Engineer based in Coimbatore, specializing in Full-Stack Development, Data Science, and AI Integration. This website serves as a digital resume and a showcase of my technical projects, from intelligent local-RAG engines to dynamic web applications.
+
+## 🛠️ Continuously Building With focus
+
+This portfolio was building from the ground up focusing on performance, responsive design, and clean code architecture.
+
+* **Framework:** [Next.js](https://nextjs.org/) (React)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Icons:** Lucide React, React Icons
+* **Deployment:** Vercel 
+
+
+## 🚀 Running the Project Locally
+
+If you'd like to explore the code or run this portfolio on your local machine, follow these steps:
+
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/akshan9103/YOUR-REPO-NAME.git](https://github.com/akshan9103/my-portfolio.git)
+
+Navigate into the directory:
+
+Bash
+cd my-portfolio
+Install dependencies:
+
+Bash
+npm install
+# or yarn install / pnpm install
+Start the development server:
+
+Bash
+npm run dev
+# or yarn dev / pnpm dev
+Open the app:
+Open http://localhost:3000 in your browser to see the result.
+
+# 📫 Let's Connect
+I am currently seeking entry-level opportunities as a Software Engineer, Full-Stack Developer, or Data Analyst. Let's build something great together.
+
+LinkedIn: linkedin.com/in/shanthakumarpm
+
+Email: shanthapm2003@yahoo.com
+
+GitHub: @akshan9103
+
+Designed and built by Shantha Kumar P M © 2026
+
+
+### Quick Tips for this README:
+1. **The Live Demo Link:** Don't forget to replace the `[Insert your deployed link here...]` placeholder once you host the site on Vercel or Netlify.
+2. **The Clone Link:** Make sure to replace `YOUR-REPO-NAME` in the clone instructions with the actual name of your repository. 
+3. **Animations:** If you didn't end up using Framer Motion or GSAP for animations, just delete
+
+# Defaults comes with Next.Js
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
