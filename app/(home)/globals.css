@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --font-sans: var(--font-ibm-plex);
+  --font-iosevka: var(--font-iosevka);
+  --font-mono: var(--font-iosevka-mono);
+  --font-jaro: var(--font-jaro);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-ibm-plex);
+}
+
+@layer base {
+  h2 {
+    @apply w-full text-xs font-medium text-center font-iosevka;
+  }
+  h1 {
+    @apply w-full text-[150px] leading-[0.9] font-bold text-center font-iosevka;
+  }
+  h3 {
+    @apply w-full text-4xl font-medium text-center font-iosevka;
+  }
+  p {
+    @apply w-full leading-8 text-lg;
+  }
+}
