@@ -55,10 +55,6 @@ GitHub: @akshan9103
 Designed and built by Shantha Kumar P M © 2026
 
 
-### Quick Tips for this README:
-1. **The Live Demo Link:** Don't forget to replace the `[Insert your deployed link here...]` placeholder once you host the site on Vercel or Netlify.
-2. **The Clone Link:** Make sure to replace `YOUR-REPO-NAME` in the clone instructions with the actual name of your repository. 
-3. **Animations:** If you didn't end up using Framer Motion or GSAP for animations, just delete
 
 # Defaults comes with Next.Js
 
