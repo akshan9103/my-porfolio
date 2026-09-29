@@ -37,7 +37,7 @@ export function SkillsGridCards() {
         >
           <div className="flex flex-col gap-4 mb-6">
             <div className="flex items-center gap-4">
-              <div className="p-3 border border-gray-200 bg-gray-50 flex-shrink-0">
+              <div className="p-3 border border-gray-200 bg-gray-50 shrink-0">
                 {category.icon}
               </div>
               <h4 className="text-xl font-bold text-black uppercase tracking-wide font-iosevka">

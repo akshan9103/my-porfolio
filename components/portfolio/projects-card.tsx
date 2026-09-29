@@ -56,7 +56,7 @@ export function ProjectCards() {
           </div>
 
           {/* Description */}
-          <div className="flex flex-col gap-3 mb-8 flex-grow">
+          <div className="flex flex-col gap-3 mb-8 grow">
             {project.details.map((detail, idx) => (
               <p key={idx} className="text-sm text-gray-600 font-light leading-relaxed">
                 {detail}
